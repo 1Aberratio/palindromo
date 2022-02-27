@@ -4,14 +4,16 @@ Software that allows detecting if a word, phrase or sentence is a palindrome or 
 
  -DATOS DE PRUEBA-
 
--Sí son palíndromos:
+#Sí son palíndromos:
+
 A mamá, Roma le aviva el amor a papá, y a papá, Roma le aviva el amor a mamá.
 
 OÍ LO DE MAMÁ: ME DOLIÓ.
 
 ¿Son mulas o cívicos alumnos?
 
--No son palíndromos:
+#No son palíndromos:
+
 Cuanto más conozco a la gente, más quiero a mi perro.
 
 El rock 'n' roll está muerto ¡Larga vida al rock 'n' roll!
